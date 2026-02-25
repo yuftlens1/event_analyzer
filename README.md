@@ -154,6 +154,9 @@ pip install pywin32
 
 ```bash
 python event_analyzer.py
+
+
+.\windowsEventAnalyzer-v1.exe -t 6
 ```
 
 默认读取最近 1 小时：
