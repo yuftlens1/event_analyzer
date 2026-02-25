@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Your Name
+# Licensed under AGPL-3.0 OR Commercial License
 import win32evtlog
 import ctypes
 import argparse
@@ -289,4 +291,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
     input("\n按回车键退出...")
