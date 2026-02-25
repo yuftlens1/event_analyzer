@@ -348,7 +348,7 @@ Commercial licensing provides:
 
 For commercial licensing inquiries, please contact:
 
-📧 your_email@example.com
+📧 yufangtaocloud@outlook.com
 
 ---
 
