@@ -1,5 +1,6 @@
 ⚠️ **本项目采用双许可证模式：AGPL-3.0 + 商业授权。  
 除非遵守 AGPL 条款，否则商业使用需购买商业授权。**
+
 ⚠️ This project is dual-licensed under AGPL-3.0 and a Commercial License.
 Commercial use requires a paid license unless full AGPL compliance is met.
 
